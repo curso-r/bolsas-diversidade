@@ -8,6 +8,8 @@ Cerca de um mês antes do curso começar, iniciaremos a seleção.
 
 Entraremos em contato com as pessoas selecionadas através do email apontado no formulário.
 
+Informações atualizadas em: 21/02/2024.
+
 
 ## Cursos em 2024
 
