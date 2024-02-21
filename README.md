@@ -2,7 +2,7 @@
 
 Desde 2018, a Curso-R oferece bolsas de diversidade de 100% do valor do curso.
 
-O formulário para se inscrever no processo seletivo é: <https://forms.gle/qFGTMB7vHn5E3unU6>
+O formulário para se inscrever no processo seletivo dos cursos de 2024 é: <https://forms.gle/qFGTMB7vHn5E3unU6>
 
 Cerca de um mês antes do curso começar, iniciaremos a seleção.
 
