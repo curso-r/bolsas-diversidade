@@ -1,5 +1,14 @@
 # Bolsas de diversidade - Curso-R
 
+Desde 2018, a Curso-R oferece bolsas de diversidade de 100% do valor do curso.
+
+O formulário para se inscrever no processo seletivo é: <https://forms.gle/qFGTMB7vHn5E3unU6>
+
+Cerca de um mês antes do curso começar, iniciaremos a seleção.
+
+Entraremos em contato com as pessoas selecionadas através do email apontado no formulário.
+
+
 ## Cursos em 2024
 
 ### R para Ciência de Dados I
