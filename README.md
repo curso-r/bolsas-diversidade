@@ -37,12 +37,18 @@ Informações atualizadas em: 21/02/2024.
 
 ###  R para Ciência de Dados II	
 - Ofecerimento: 12/03/2024 a 16/04/2024
-- Status: em seleção.
+- Status: **bolsas selecionadas**
+- Pessoas selecionadas:
+   - Andressa Oliveira de Jesus
+   - Bruna Barreto Mesquita
+   - Endrya Santos
+   - Gladys Choque Ulloa 
+   - Marcos Aurélio Eustorgio Filho 
 
   
 ### Visualização de dados	
 - Oferecimento: 14/03/2024 a 18/04/2024
-- Status: em breve início da seleção.
+- Status: **em seleção**.
 
 
 ### Relatórios e apresentações
