@@ -48,7 +48,13 @@ Informações atualizadas em: 23/02/2024.
   
 ### Visualização de dados	
 - Oferecimento: 14/03/2024 a 18/04/2024
-- Status: **em seleção**.
+- Status: **bolsas selecionadas**
+- Pessoas selecionadas:
+   - Adriana de Fátima Lourençon Watanabe 
+   - Ana Paula D. F. da Rocha
+   - Gabrielle Maria Romeiro Lombardi 
+   - Luziene Conceição de Sousa
+   - Sofia Maria do Carmo Nicolau  
 
 
 ### Relatórios e apresentações
