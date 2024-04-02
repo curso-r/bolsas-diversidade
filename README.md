@@ -8,7 +8,7 @@ Cerca de um mês antes do curso começar, iniciaremos a seleção.
 
 Entraremos em contato com as pessoas selecionadas através do email apontado no formulário.
 
-Informações atualizadas em: 23/02/2024.
+Informações atualizadas em: 02/04/2024.
 
 
 ## Cursos em 2024
@@ -57,14 +57,16 @@ Informações atualizadas em: 23/02/2024.
    - Sofia Maria do Carmo Nicolau  
 
 
+### Introdução ao Machine Learning		
+- Oferecimento: 07/05/2024 a 25/06/2024
+- Status: em seleção.
+
 ### Relatórios e apresentações
 - Oferecimento: 20/05/2024 a 10/06/2024
 - Status: em breve início da seleção.
 
 
-### Introdução ao Machine Learning		
-- Oferecimento: 07/05/2024 a 25/06/2024
-- Status: em breve início da seleção.
+
  
 
 ### Deploy		
